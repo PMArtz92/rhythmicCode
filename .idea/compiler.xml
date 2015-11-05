@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-<<<<<<< HEAD
-=======
-    <option name="DEFAULT_COMPILER" value="Javac" />
->>>>>>> 50e5534d411e1cd7e73cbf4e8f7a2f6f132d5d72
     <resourceExtensions />
     <wildcardResourcePatterns>
       <entry name="!?*.java" />
@@ -15,10 +11,7 @@
       <entry name="!?*.flex" />
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
-<<<<<<< HEAD
       <entry name="!?*.aj" />
-=======
->>>>>>> 50e5534d411e1cd7e73cbf4e8f7a2f6f132d5d72
     </wildcardResourcePatterns>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="false">
